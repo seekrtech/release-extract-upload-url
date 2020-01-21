@@ -8,9 +8,9 @@ This action does not require any input.
 
 ## Outputs
 
-### `upload_url`
+### `upload-url`
 
-The `upload_url` extracted from the payload.
+The `upload-url` extracted from the payload.
 
 ## Example usage
 
