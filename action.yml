@@ -1,0 +1,8 @@
+name: 'Extract upload_url'
+description: 'Extract upload_url from release payload.'
+outputs:
+  upload_url:
+    description: 'The upload_url extracted from the payload'
+runs:
+  using: 'node12'
+  main: 'index.js'

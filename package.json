@@ -1,0 +1,22 @@
+{
+  "name": "release-extract-upload-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seekrtech/release-extract-upload-url.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seekrtech/release-extract-upload-url/issues"
+  },
+  "homepage": "https://github.com/seekrtech/release-extract-upload-url#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.1",
+    "@actions/github": "^2.0.1"
+  }
+}
